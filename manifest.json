@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "sage tab",
+  "version": "1.0",
+  "description": "Displays images and videos on new tab",
+  "chrome_url_overrides": {
+    "newtab": "sagetab.html"
+  },
+  "icons": {
+    "48": "icon.jpg"
+  }
+}
